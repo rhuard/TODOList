@@ -1,6 +1,6 @@
 #include "include/repl_ui.h"
 
-void repl_mode(void)
+void repl_ui(void)
 // This is just a basic test to mess around wtih a basic repl ui
 {
     std::string prompt = "> ";

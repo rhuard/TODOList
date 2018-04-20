@@ -1,9 +1,9 @@
-#ifndef NCURSES_MODE_H
-#define NCURSES_MODE_H
+#ifndef NCURSES_UI_H
+#define NCURSES_UI_H
 
 #include <ncurses.h>
 #include <string>
 
-void ncurses_mode(void);
+void ncurses_ui(void);
 
 #endif

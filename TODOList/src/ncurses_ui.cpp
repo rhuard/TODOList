@@ -1,6 +1,6 @@
 #include "include/ncurses_ui.h"
 
-void ncurses_mode(void)
+void ncurses_ui(void)
 // This is just a test to mess around and get basic ncurses ui working
 {
     std::string prompt = "write something (q to quit): ";

@@ -1,9 +1,9 @@
-#ifndef REPL_MODE_H
-#define REPL_MODE_H
+#ifndef REPL_UI_H
+#define REPL_UI_H
 
 #include <string>
 #include <iostream>
 
-void repl_mode(void);
+void repl_ui(void);
 
 #endif

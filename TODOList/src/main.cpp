@@ -4,7 +4,7 @@
 int main()
 {
    // basic ui setup scratch pad functions
-   ncurses_mode();
-   repl_mode();
+   ncurses_ui();
+   repl_ui();
    return 0;
 }
